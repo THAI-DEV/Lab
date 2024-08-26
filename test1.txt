@@ -7,6 +7,3 @@ dev 1 2
 
 aaa
 bbb
-u1
-u2
-u3
